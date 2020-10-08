@@ -1,3 +1,8 @@
 #### Useful commands for linux and other stuff
 
-#### Links
+##### Links
+* DevConnected [link][1]
+
+
+[1]: https://devconnected.com
+
