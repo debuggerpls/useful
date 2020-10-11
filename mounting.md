@@ -33,7 +33,7 @@ $ blkid
 $ findmnt <device/mountpoint> 
 ```
 
-* use `fstad` file to permanently mount drives
+* use `fstab` file to permanently mount drives
 ```
 $ cat /etc/fstab
 
